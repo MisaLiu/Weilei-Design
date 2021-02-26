@@ -1,0 +1,48 @@
+.wl-text {
+  padding: 8px;
+  border-radius: 18px;
+  border-style: none;
+  outline-style: none;
+}
+
+.wl-btn {
+  padding: 4px;
+  border-radius: 8px;
+  boeder-style: none;
+  outline-style: none;
+  border: 3px soild;
+}
+
+.wl-color-bg-green {
+  background-color: green;
+  color: white;
+}
+.wl-color-bg-light-green {
+  background-color: rgb(150,255,150);
+}
+.wl-color-bg-complextion {
+  background-color: #E9D5A0;
+}
+.wl-color-bg-grey {
+  background-color: rgb(190,190,190);
+}
+.wl-color-bg-black {
+  background-color: black;
+  color: white;
+}
+.wl-color-bg-orange {
+  background-color: DarkGoldenRod;
+  color: white;
+}
+.wl-color-bg-blue {
+  background-color: rgb(99,156,243);
+  color: white;
+}
+.wl-color-bg-light-blue {
+  background-color: rgb(144,178,250);
+  color: white;
+}
+.wl-color-bg-yellow {
+  background-color: rgb(245,189,34);
+  color: white;
+}
