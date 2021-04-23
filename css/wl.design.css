@@ -8,8 +8,8 @@
 .wl-btn {
   padding: 4px;
   border-radius: 8px;
-  boeder-style: none;
-  outline-style: none;
+  boeder: none;
+  outline: none;
   border: 3px soild;
 }
 
@@ -45,4 +45,7 @@
 .wl-color-bg-yellow {
   background-color: rgb(245,189,34);
   color: white;
+}
+.wl-color-bg-pink {
+  background-color: Pink;
 }
